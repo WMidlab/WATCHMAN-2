@@ -26,8 +26,8 @@ UDP_PORT = 8
 #Creates the socket
 def setup_connection():
     #Display
-    print "UDP target IP:", UDP_IP
-    print "UDP target port:", UDP_PORT
+    print ("UDP target IP:", UDP_IP)
+    print ("UDP target port:", UDP_PORT)
     sock = socket.socket(socket.AF_INET, # Internet
                         socket.SOCK_DGRAM) # UDP
     return sock
@@ -50,8 +50,8 @@ def main():
         data, server = sock.recvfrom(8192)
         # if(data[-3:-1] == 'end'):
         #     recv_flag = -1;
-        print >>sys.stderr, 'recieved "%s"' % data
-        if data.startswith('head'):
+        print ("received", data.decode('utf-8'))
+        if data.startswith('head'.encode('utf-8')):
             if data[5:9]=='test':
                 A=data[10:-3]
                 B = [int(x) for x in A.split('/') if x.strip()]
