@@ -42,18 +42,18 @@ def main():
         #     recv_flag = -1;
         f = open("testdata.txt", "a")
         f.write("head/")
-        if data.startswith('head'):
+        if data.startswith('head'.encode('utf-8')):
             print ("head\n")
             dataFlag = 0
             while (dataFlag != 1):
                 data, server = sock.recvfrom(8192)
                 print ("received", data.decode('utf-8'))
             
-                if data.startswith('endS'):
+                if data.startswith('endS'.encode('utf-8')):
                     dataFlag = 1
                     f.write("end\n")
                 else:
-                    f.write(data[0:(len(data))-4])
+                    f.write(data[0:(len(data))-4].decode('utf-8'))
 
 
 """

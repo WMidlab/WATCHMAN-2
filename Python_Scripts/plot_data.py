@@ -60,8 +60,11 @@ def main():
                 sample = B[2]
                 C = B[3:]
                 potato = window*sample
+            else:
+                channel = 1
+                potato = 1
 
-            y = np.zeros([channel,potato], np.int32)
+            y = np.zeros((channel,potato), np.int32)
             #outfile = open('test3', 'w')
             count=0
             for a in range(0,channel):
