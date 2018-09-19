@@ -7,7 +7,7 @@
 #This module uses a fixed IP address and port number that must match the
 #IP address of the MICROZED. This module restricts the sent packages to be
 #predefined commands: ping, read, rite, send, and exit.
-##############################################################################
+############################################################################
 import sys
 import socket
 import optparse
