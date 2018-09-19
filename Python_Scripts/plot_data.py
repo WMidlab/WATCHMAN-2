@@ -8,7 +8,7 @@
 #IP address of the MICROZED. This module restricts the sent packages to be
 #predefined commands: ping, read, rite, send, and exit.
 #This module plots data
-##############################################################################
+############################################################################
 import sys
 import socket
 import optparse
