@@ -4,11 +4,5 @@ mz_7010_dma_test/*
 Python_Scripts/*.txt
 HLS_tutorial/*
 prototype_watchman/prototype_watchman.sdk/.metadata/*
-/prototype_watchman/prototype_watchman.cache/*
+prototype_watchman/prototype_watchman.cache/*
 prototype_watchman/prototype_watchman.runs/*
-/prototype_watchman/prototype_watchman.cache/wt/webtalk_pa.xml
-/prototype_watchman/prototype_watchman.sdk/.metadata/.plugins/org.eclipse.core.resources/.projects/lwip_udp_echo/.markers.snap
-/prototype_watchman/prototype_watchman.sdk/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml
-/prototype_watchman/prototype_watchman.cache/wt/gui_handlers.wdf
-/prototype_watchman/prototype_watchman.cache/wt/gui_handlers.wdf
-/prototype_watchman/prototype_watchman.cache/wt/gui_handlers.wdf
