@@ -1,1 +1,0 @@
-set ::AESL_AUTOSIM::gTopFileName axi_ex.cpp_pre.cpp.tb.cpp

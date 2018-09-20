@@ -1,5 +1,0 @@
-<annotationInfo>
-<item  id="11" filename="prototype_watchman_HLS_designs/axi_ex.cpp" linenumber="98" name="exitcond" contextFuncName="example" moduleName="example" rtlName="exitcond_fu_62_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="11" fileDirectory="/home/idlab-52/Desktop/GitVivado/WATCHMAN"></item>
-<item  id="13" filename="prototype_watchman_HLS_designs/axi_ex.cpp" linenumber="98" name="i_1" contextFuncName="example" moduleName="example" rtlName="i_1_fu_68_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="15" fileDirectory="/home/idlab-52/Desktop/GitVivado/WATCHMAN"></item>
-<item  id="17" filename="prototype_watchman_HLS_designs/axi_ex.cpp" linenumber="99" name="tmp_1" contextFuncName="example" moduleName="example" rtlName="tmp_1_fu_74_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="39" fileDirectory="/home/idlab-52/Desktop/GitVivado/WATCHMAN"></item>
-</annotationInfo>

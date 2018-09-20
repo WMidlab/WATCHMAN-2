@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
-  <source>
-    <originFiles name="axi_ex.cpp" path="/home/idlab-52/Desktop/GitVivado/WATCHMAN/prototype_watchman_HLS_designs/axi_ex.cpp"/>
-  </source>
-  <testbench>
-    <originFiles name="axi_testbench.cpp" path="/home/idlab-52/Desktop/GitVivado/WATCHMAN/prototype_watchman_HLS_designs/axi_testbench.cpp"/>
-  </testbench>
-</autopilotfilemapping:AutoPilotFileMapping>
