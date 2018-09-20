@@ -5,5 +5,7 @@ Python_Scripts/*.txt
 HLS_tutorial/*
 prototype_watchman/prototype_watchman.sdk/.metadata/*
 prototype_watchman/prototype_watchman.cache/*
+
 prototype_watchman/prototype_watchman.runs/*
 /MICROZED/constraint files/.vs/*
+

@@ -1,0 +1,240 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 63416
+License: Customer
+
+Current time: 	Tue Sep 18 13:26:22 HST 2018
+Time zone: 	Hawaii Standard Time (Pacific/Honolulu)
+
+OS: Windows 7
+OS Version: 6.1
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 120
+Available screens: 2
+Available disk space: 46 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	Anthony
+User home directory: C:/Users/Anthony
+User working directory: C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman
+User country: 	CH
+User language: 	fr
+User locale: 	fr_CH
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.2
+RDI_DATADIR: C:/Xilinx/Vivado/2018.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/Anthony/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/Anthony/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/Anthony/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/vivado.log
+Vivado journal file location: 	C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/vivado.jou
+Engine tmp dir: 	C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/.Xil/Vivado-63416-Anthony-THINK
+
+Xilinx Environment Variables
+----------------------------
+NO_XILINX_DATA_LICENSE: HIDDEN
+XILINX: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINXD_LICENSE_FILE: 2100@hefrlic02
+XILINX_DSP: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.2
+XILINX_SDK: C:/Xilinx/SDK/2018.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.2
+
+
+GUI allocated memory:	148 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 517 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// [GUI Memory]: 17 MB (+14913kb) [00:00:05]
+// [Engine Memory]: 278 MB (+139708kb) [00:00:05]
+// [GUI Memory]: 22 MB (+4767kb) [00:00:10]
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// aL (ck): Older Project Version: addNotify
+// [GUI Memory]: 68 MB (+47510kb) [00:00:19]
+// [Engine Memory]: 514 MB (+233447kb) [00:00:19]
+// HMemoryUtils.trashcanNow. Engine heap size: 519 MB. GUI used memory: 40 MB. Current time: 9/18/18 1:26:24 PM HST
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (aL)
+// Opening Vivado Project: C:\Users\Anthony\Documents\Hawaii\WATCHMAN\prototype_watchman\prototype_watchman.xpr. Version: Vivado v2018.1 
+// bx (ck):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+dismissDialog("Older Project Version"); // aL (ck)
+// Tcl Message: open_project C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 544 MB. GUI used memory: 37 MB. Current time: 9/18/18 1:28:14 PM HST
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 595 MB (+57603kb) [00:02:15]
+// [Engine Memory]: 632 MB (+7244kb) [00:02:18]
+// Tcl Message: open_project C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from '/home/idlab-52/Desktop/GitVivado/WATCHMAN/prototype_watchman' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Anthony/Documents/Hawaii/WATCHMAN/ip_repo/simple_gen_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Anthony/Documents/Hawaii/WATCHMAN/ip_repo/simple_reg_map_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman_HLS_designs'. INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'. 
+// Tcl Message: INFO: [Project 1-230] Project 'prototype_watchman.xpr' upgraded for this version of Vivado. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:14 . Memory (MB): peak = 802.313 ; gain = 94.840 
+// Project name: prototype_watchman; location: C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman; part: xc7z010clg400-1
+// Elapsed time: 15 seconds
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// al (ck): Project Upgraded: addNotify
+// a (ck): Critical Messages: addNotify
+// TclEventType: DG_GRAPH_GENERATED
+// Elapsed time: 11 seconds
+selectButton(PAResourceQtoS.ReportIPStatusInfoDialog_IGNORE, "Ignore"); // a (al)
+dismissDialog("Project Upgraded"); // al (ck)
+// Tcl Message: update_compile_order -fileset sources_1 
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // f (a)
+dismissDialog("Critical Messages"); // a (ck)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Program and Debug, Open Hardware Manager]", 21, true); // u (O, ck) - Node
+// Run Command: PAResourceCommand.PACommandNames_OPEN_HARDWARE_MANAGER
+// Tcl Command: 'rdi::info_commands get_hw_probes'
+// Tcl Command: 'load_features labtools'
+// TclEventType: LOAD_FEATURE
+// bx (ck):  Open Hardware Manager : addNotify
+// TclEventType: HW_SESSION_OPEN
+// Tcl Message: open_hw 
+// [GUI Memory]: 73 MB (+1535kb) [00:02:37]
+dismissDialog("Open Hardware Manager"); // bx (ck)
+// HMemoryUtils.trashcanNow. Engine heap size: 657 MB. GUI used memory: 45 MB. Current time: 9/18/18 1:28:39 PM HST
+selectButton(PAResourceOtoP.ProgramDebugTab_OPEN_TARGET, "Open target"); // h (cM, ck)
+selectMenuItem(PAResourceCommand.PACommandNames_AUTO_CONNECT_TARGET, "Auto Connect"); // ad (aj, ck)
+// Run Command: PAResourceCommand.PACommandNames_AUTO_CONNECT_TARGET
+// bx (ck):  Auto Connect : addNotify
+// Tcl Message: connect_hw_server 
+// Tcl Message: INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121 
+// Tcl Message: INFO: [Labtools 27-2222] Launching hw_server... 
+// TclEventType: HW_SERVER_UPDATE
+// Tcl Message: INFO: [Labtools 27-2221] Launch Output:  ****** Xilinx hw_server v2018.2   **** Build date : Jun 14 2018-20:42:52     ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.   
+// TclEventType: HW_TARGET_CHANGE
+// TclEventType: HW_TARGET_CLOSE
+// Tcl Message: open_hw_target 
+// Tcl Message: INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/210249992871 
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_SYSMON_ADD
+// TclEventType: HW_TARGET_UPDATE
+// [GUI Memory]: 78 MB (+1355kb) [00:02:48]
+// [Engine Memory]: 1,280 MB (+646255kb) [00:02:48]
+// Tcl Message: open_hw_target: Time (s): cpu = 00:00:04 ; elapsed = 00:00:06 . Memory (MB): peak = 1439.453 ; gain = 624.855 
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: set_property PROGRAM.FILE {C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.runs/impl_1/prototype_watchman_wrapper.bit} [get_hw_devices xc7z010_1] 
+// CommandFailedException: ERROR: [Common 17-48] File not found: C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.runs/impl_1/prototype_watchman_wrapper.ltx 
+dismissDialog("Auto Connect"); // bx (ck)
+selectButton(PAResourceOtoP.ProgramDebugTab_PROGRAM_DEVICE, "Program device"); // h (cM, ck)
+// Run Command: PAResourceCommand.PACommandNames_PROGRAM_FPGA
+// bB (ck): Program Device: addNotify
+selectButton(PAResourceOtoP.ProgramFpgaDialog_PROGRAM, "Program"); // a (bB)
+// CommandFailedException: ERROR: [Common 17-48] File not found: C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.runs/impl_1/prototype_watchman_wrapper.ltx 
+// bx (ck):  Program Device : addNotify
+// HOptionPane Error: 'ERROR: [Common 17-48] File not found: C:/Users/Anthony/Documents/Hawaii/ WATCHMAN/prototype_watchman/prototype_watchman.runs/impl_1/prototype_watchman_wrapper.ltx  (Program Device)'
+dismissDialog("Program Device"); // bB (ck)
+// 'I' command handler elapsed time: 3 seconds
+selectButton("RDIResource.ProgressDialog_ERROR_ENCOUNTERED_PLEASE_SEE_TCL_OK", "OK"); // JButton (A, G)
+selectButton(PAResourceOtoP.ProgramDebugTab_PROGRAM_DEVICE, "Program device"); // h (cM, ck)
+// Run Command: PAResourceCommand.PACommandNames_PROGRAM_FPGA
+// bB (ck): Program Device: addNotify
+setText(PAResourceOtoP.ProgramFpgaDialog_SPECIFY_DEBUG_PROBES_FILE, (String) null); // al (ak, bB)
+setText(PAResourceOtoP.ProgramFpgaDialog_SPECIFY_DEBUG_PROBES_FILE, (String) null); // al (ak, bB)
+selectButton(PAResourceOtoP.ProgramFpgaDialog_PROGRAM, "Program"); // a (bB)
+// bx (ck):  Program Device : addNotify
+// TclEventType: HW_DEVICE_CHANGE
+dismissDialog("Program Device"); // bB (ck)
+// Tcl Message: set_property PROBES.FILE {} [get_hw_devices xc7z010_1] 
+// Tcl Message: set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1] 
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: set_property PROGRAM.FILE {C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.runs/impl_1/prototype_watchman_wrapper.bit} [get_hw_devices xc7z010_1] 
+// Tcl Message: program_hw_devices [get_hw_devices xc7z010_1] 
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: INFO: [Labtools 27-3164] End of startup status: HIGH 
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_SYSMON_CHANGE
+// TclEventType: HW_ILA_CHANGE
+// TclEventType: HW_DEVICE_UPDATE
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0] 
+// Tcl Message: INFO: [Labtools 27-2302] Device xc7z010 (JTAG device index = 1) is programmed with a design that has 1 ILA core(s). 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,328 MB. GUI used memory: 54 MB. Current time: 9/18/18 1:29:05 PM HST
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_ILA_CHANGE
+// 'I' command handler elapsed time: 10 seconds
+dismissDialog("Program Device"); // bx (ck)
+// Elapsed time: 13 seconds
+selectMenu(PAResourceItoN.MainMenuMgr_FILE, "File"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_PROJECT, "Project"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_CHECKPOINT, "Checkpoint"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_IP, "IP"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TEXT_EDITOR, "Text Editor"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_IMPORT, "Import"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_EXPORT, "Export"); // aa (ck)
+selectMenuItem(PAResourceCommand.PACommandNames_LAUNCH_HARDWARE, "Launch SDK"); // ad (ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_FILE, "File"); // V (q, ck)
+// Run Command: PAResourceCommand.PACommandNames_LAUNCH_HARDWARE
+// aa (ck): Launch SDK: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (aa)
+// 'o' command handler elapsed time: 3 seconds
+selectButton("PAResourceItoN.NewLaunchHardwareDialog_EXPORTED_HARDWARE_SYSTEM_OUT_OF_DATE_Yes", "Yes"); // JButton (A, H)
+dismissDialog("Launch SDK"); // aa (ck)
+// Tcl Message: launch_sdk -workspace C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.sdk -hwspec C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.sdk/prototype_watchman_wrapper.hdf 
+// Tcl Message: INFO: [Vivado 12-393] Launching SDK... INFO: [Vivado 12-417] Running xsdk -workspace C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.sdk -hwspec C:/Users/Anthony/Documents/Hawaii/WATCHMAN/prototype_watchman/prototype_watchman.sdk/prototype_watchman_wrapper.hdf INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages. 
+// [GUI Memory]: 83 MB (+460kb) [00:03:23]
+// WARNING: HTimer (StateMonitor Timer) is taking 827ms to process. Increasing delay to 4000 ms.
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 267ms to process. Increasing delay to 2000 ms.
+// [GUI Memory]: 88 MB (+763kb) [00:10:40]
+// [GUI Memory]: 93 MB (+689kb) [00:24:35]
+// HMemoryUtils.trashcanNow. Engine heap size: 1,332 MB. GUI used memory: 54 MB. Current time: 9/18/18 1:59:09 PM HST
+// [GUI Memory]: 98 MB (+913kb) [00:55:27]
+// HMemoryUtils.trashcanNow. Engine heap size: 1,332 MB. GUI used memory: 51 MB. Current time: 9/18/18 2:29:09 PM HST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,332 MB. GUI used memory: 51 MB. Current time: 9/18/18 2:59:09 PM HST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,332 MB. GUI used memory: 51 MB. Current time: 9/18/18 3:29:09 PM HST
+// [GUI Memory]: 103 MB (+73kb) [02:14:01]
